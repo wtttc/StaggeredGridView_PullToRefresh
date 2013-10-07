@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">BITWaterFall</string>
+
+    <string name="search_post_empty">没有找到活动海报哟~</string>
+    <string name="search_post_location_empty">在北理一个不为人知的地方</string>
+    <string name="search_post_time_empty">在一个不为人知的时候</string>
+    <string name="search_post_host_empty">北理校内一个神秘的组织</string>
+    <string name="search_post_title_empty">这是一个神秘的活动</string>
+
+</resources>

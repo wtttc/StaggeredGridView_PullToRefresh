@@ -1,0 +1,3 @@
+Forked from the newest master brach chrisbanes/Android-PullToRefresh.
+Added support of StaggeredGridView from maurycyw/StaggeredGridView.
+Sample activity is also added.
